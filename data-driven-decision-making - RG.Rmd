@@ -1,0 +1,29 @@
+title: "Assigment - Data Driven Decision Making"
+author: Robin Gosen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+
+<---- Watch this video if you don't know how to embed video's ---->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwBS_IXw3JQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" data-external="1"></iframe>
+
+<---- Replace this video with your business case example ---->
+
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Using data of Category Management can help supermarkets to make decisions about what products perform as wished and what products do not. Based on this data, decisions about which products should be replaced can be made by the procurement Department. 
+
+## How did the organization apply 3DM?
+
+Lidl uses Category Management data to make decisions about which products are going to leave the assortment and which products will come in place. The data is being bought from companies who maintain the data. 
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Without the category data, Lidl won't be able to determine external market chances that might boost the turnover when introduced to its own assortment. Before the use of Category Management Data, Lidl could only analyse the internal data, and therefore does not take account of the changing market circumstances.
